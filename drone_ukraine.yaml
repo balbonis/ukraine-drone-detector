@@ -1,0 +1,5 @@
+train: C:/Users/drizz/Downloads/Dada/MyFlaskProject/dataset/Ukraine/images/train
+val: C:/Users/drizz/Downloads/Dada/MyFlaskProject/dataset/Ukraine/images/val
+
+nc: 1
+names: ['drone']
